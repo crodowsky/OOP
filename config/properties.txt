@@ -1,0 +1,2 @@
+IBookSvc = library.services.BookSvcJDBCImpl
+IAuthenticationSvc = library.services.AuthenticationSvcSocketImpl
